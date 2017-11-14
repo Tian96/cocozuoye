@@ -1,0 +1,180 @@
+<swiper class="section hero  white" indicator-dots="{{true}}" >
+
+<swiper-item  >
+<image src="/assets/icons/1.jpg" 
+/>
+<view class="content centered">
+<view class="sub-header">季节限定</view>
+<view class="header">鲜芋青稞醇牛奶</view>
+<view class="description">鲜芋香浓,青稞Q弹</view>
+<view class="action">
+<button class="button">自助点餐</button>
+<button class="button primary">了解更多</button>
+</view>
+</view>
+
+</swiper-item>
+
+
+<swiper-item>
+<image src="/assets/icons/2.jpg"
+/>
+<view class="content centered">
+<view class="sub-header">白色鲜醇</view>
+<view class="header">宇治金时欧蕾</view>
+<view class="description">淡雅的抹茶搭配醇鲜的牛奶</view>
+<view class="action">
+<button class="button">自助点餐</button>
+<button class="button primary">了解更多</button>
+</view>
+</view>
+</swiper-item>
+
+
+</swiper>
+
+
+
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" >
+
+<image src="/assets/icons/yutou.png" 
+/>
+<view class="content">
+<view class="header">鲜芋奶茶</view>
+<view class="sub_header">【人气产品，可做热饮】</view>
+<view class="description">鲜芋香浓,青稞Q弹</view>
+<view class="meta">RMB 15元 起</view>
+
+
+</view>
+</view>
+</view>
+
+
+
+
+
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" >
+<image src="/assets/icons/xiongdi.png" 
+/>
+<view class="content">
+<view class="header">奶茶三兄弟</view>
+<view class="sub_header">【热门推荐，人气产品】</view>
+<view class="description">香滑布丁及鲜嫩仙草</view>
+<view class="meta">RMB 18元 起</view>
+</view>
+
+</view>
+
+</view>
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" >
+<image src="/assets/icons/qingke.png" 
+/>
+<view class="content">
+<view class="header">鲜芋青稞牛奶</view>
+<view class="sub_header">【热门推荐，冬季限定】</view>
+<view class="description">天然健康青稞，口感细腻软滑</view>
+<view class="meta">RMB 18元 起</view>
+</view>
+
+</view>
+
+</view>
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" >
+<image src="/assets/icons/xiangpao.png" 
+/>
+<view class="content">
+<view class="header">鲜百香双响炮</view>
+<view class="sub_header">【夏季限定，人气饮品】</view>
+<view class="description">口感酸甜爽口，丰富有层次！</view>
+<view class="meta">RMB 13元 起</view>
+
+
+</view>
+</view>
+</view>
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" >
+<image src="/assets/icons/xianmeng.png" 
+/>
+<view class="content">
+<view class="header">鲜柠檬红茶</view>
+<view class="sub_header">【人气饮品，冷饮】</view>
+<view class="description">鲜柠檬原汁果香酸甜，浓醇的红茶，爽口又解腻。</view>
+<view class="meta">RMB 15元 起</view>
+
+
+</view>
+</view>
+</view>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--image
+src="http://seoimg.91cy.cn/cy91cycn/12-11-21/13534755045727.jpg"
+mode="aspectFill"
+/>
+<image
+src="http://rich.online.sh.cn/rich/gb/content/attachement/jpg/site1/20110602/0025116ac9d10f518ccb59.jpg"
+mode="aspectFill"
+/>
+
+<view>
+来自台湾 风靡全球 来自台湾的睇到品牌 给你新鲜好心情 全球连锁品牌CoCo都可茶饮， 目前已突破1000家门店， 全国覆盖近40个城市。 标准化的经营模式，多元化的饮品选择; 坚持最好的品质和优质的服务; 追求新鲜好喝NO1; 新鲜现制 热销全球;
+
+</view>
+
+<view  class="section">
+<view style="background:#6435c9;height:38.2vh"></view>
+</view>
+<view  class="section">
+<view style="background:#6435c9;height:38.2vh"></view>
+</view>-->
