@@ -1,3 +1,6 @@
+
+import testDrive from '../../modules/test-drive.js'
+
 const app=getApp()
 
 
@@ -10,6 +13,16 @@ Page({
     slides:null,
     entities:null
   },
+
+testDrive,
+
+
+readMore(event){
+  wx.navigateTo({
+    url:'/pages/vehicles/show?id=${event.target.dataset.id}'
+  })
+},
+
 
   /**
    * 生命周期函数--监听页面加载

@@ -1,0 +1,254 @@
+<swiper class="section story  white" indicator-dots="{{true}}" >
+
+<swiper-item  >
+<view class="section">
+<view class="cover">
+<image src="/assets/icons/yutou.png"  mode="aspectFill"/>
+<view class="content">
+<view class="header">鲜芋奶茶</view>
+</view>
+<view class="meta">RMB 15元 起</view>
+</view>
+
+<view  class="spec">
+<view class="item">
+<view class="header">
+绵甜香糯的芋泥块
+</view>
+<view class="value">
+<text> 150 </text>克/每杯
+</view>
+</view>
+
+
+<view class="item">
+<view class="header">
+浓郁奶茶
+</view>
+<view class="value">
+<text> 0.5 </text> 升/每杯
+</view>
+</view>
+</view>
+
+
+<view  class="action">
+<view class="description">
+两者完美融合，入口芋香四溢！
+</view>
+<button class="button primary"  
+bindtap="testDrive"
+>立即点餐</button>
+</view>
+</view>
+<image  
+bindtap="preview"
+data-index="{{index}}"
+src="/assets/icons/yutou.png"  mode="aspectFill"/>
+</swiper-item>
+
+
+<swiper-item  >
+<view class="section">
+<view class="cover">
+<image src="/assets/icons/xiongdi.png"  mode="aspectFill"/>
+<view class="content">
+<view class="header">奶茶三兄弟</view>
+</view>
+<view class="meta">RMB 15元 起</view>
+</view>
+
+<view  class="spec">
+<view class="item">
+<view class="header">
+布丁+珍珠+仙草
+</view>
+<view class="value">
+<text> 100 </text>克/每杯
+</view>
+</view>
+
+
+<view class="item">
+<view class="header">
+浓郁奶茶
+</view>
+<view class="value">
+<text> 0.5 </text> 升/每杯
+</view>
+</view>
+</view>
+
+
+<view  class="action">
+<view class="description">
+一次满足多种丰富的口感！
+</view>
+<button class="button primary"
+bindtap="testDrive">立即点餐</button>
+</view>
+</view>
+<image  
+bindtap="preview"
+data-index="{{index}}"
+src="/assets/icons/xiongdi.png"  mode="aspectFill"/>
+</swiper-item>
+
+
+
+
+<swiper-item  >
+<view class="section">
+<view class="cover">
+<image src="/assets/icons/qingke.png"  mode="aspectFill"/>
+<view class="content">
+<view class="header">鲜芋青稞牛奶</view>
+</view>
+<view class="meta">RMB 18元 起</view>
+</view>
+
+<view  class="spec">
+<view class="item">
+<view class="header">
+青稞+鲜芋
+</view>
+<view class="value">
+<text> 100 </text>克/每杯
+</view>
+</view>
+
+
+<view class="item">
+<view class="header">
+浓郁奶茶
+</view>
+<view class="value">
+<text> 0.5 </text> 升/每杯
+</view>
+</view>
+</view>
+
+
+<view  class="action">
+<view class="description">
+天然健康好营养！
+</view>
+<button class="button primary"bindtap="testDrive">立即点餐</button>
+</view>
+</view>
+
+<image  
+bindtap="preview"
+data-index="{{index}}"
+src="/assets/icons/qingke.png"  mode="aspectFill"/>
+</swiper-item>
+
+
+
+
+<swiper-item  >
+<view class="section">
+<view class="cover">
+<image src="/assets/icons/xiangpao.png"  mode="aspectFill"/>
+<view class="content">
+<view class="header">鲜百香双响炮</view>
+</view>
+<view class="meta">RMB 13元 起</view>
+</view>
+
+<view  class="spec">
+<view class="item">
+<view class="header">
+百香果+珍珠+椰果
+</view>
+<view class="value">
+<text> 100 </text>克/每杯
+</view>
+</view>
+
+
+<view class="item">
+<view class="header">
+百香果果汁
+</view>
+<view class="value">
+<text> 0.5 </text> 升/每杯
+</view>
+</view>
+</view>
+
+
+<view  class="action">
+<view class="description">
+口感酸甜爽口，丰富有层次！
+</view>
+<button class="button primary"bindtap="testDrive">立即点餐</button>
+</view>
+</view>
+
+<image  
+bindtap="preview"
+data-index="{{index}}"
+src="/assets/icons/xiangpao.png"  mode="aspectFill"/>
+</swiper-item>
+
+
+
+
+
+
+<swiper-item  >
+<view class="section">
+<view class="cover">
+<image src="/assets/icons/xianmeng.png"  mode="aspectFill"/>
+<view class="content">
+<view class="header">鲜柠檬红茶</view>
+</view>
+<view class="meta">RMB 15元 起</view>
+</view>
+
+<view  class="spec">
+<view class="item">
+<view class="header">
+柠檬汁+奶盖
+</view>
+<view class="value">
+<text> 100 </text>克/每杯
+</view>
+</view>
+
+
+<view class="item">
+<view class="header">
+柠檬红茶
+</view>
+<view class="value">
+<text> 0.5 </text> 升/每杯
+</view>
+</view>
+</view>
+
+
+<view  class="action">
+<view class="description">
+果香酸甜，爽口又解腻
+</view>
+<button class="button primary"bindtap="testDrive" >立即点餐</button>
+</view>
+</view>
+<image  
+bindtap="preview"
+data-index="{{index}}"
+src="/assets/icons/xianmeng.png"  mode="aspectFill"/>
+</swiper-item>
+
+
+
+
+
+</swiper>
+
+
+
+
+

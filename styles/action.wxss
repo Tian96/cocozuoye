@@ -1,0 +1,15 @@
+.action {
+  text-align: center;
+  padding: 48px;
+  font-weight:  bold;
+  font-size: 28rpx;
+}
+
+.action .description {
+margin-bottom:  48rpx;
+
+}
+
+.action .button primary{
+  background-color:  #f97205;
+}
