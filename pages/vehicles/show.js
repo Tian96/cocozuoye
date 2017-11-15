@@ -24,6 +24,12 @@ const index = event.target.dataset.index
  })
 },
 
+More(event) {
+  wx.navigateTo({
+    url: '/pages/can/index?id=${event.target.dataset.id}'
+  })
+},
+
 
   onLoad(options){
     const id = options.id

@@ -1,0 +1,20 @@
+.container .header{
+  padding: 28px;
+  font-size: 35rpx;
+  font-weight: bold;
+  text-align:center;
+}
+
+
+.container .button  {
+  display: inline-block;
+  margin: 4px;
+  background-color: #f97205;
+  padding: 0 24px;
+  color: rgba(0,0,0,0.6);
+  font-weight: bold;
+  border-radius:1px;
+  font-size: 32rpx;
+  transition: 0.3s all;
+}
+

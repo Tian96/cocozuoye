@@ -1,9 +1,11 @@
 {
   "pages": [
-    "pages/index/index",
+"pages/index/index",
+    "pages/can/index",
+   
     "pages/stories/index",
-    
     "pages/vehicles/show"
+    
   
   ],
   "window": {

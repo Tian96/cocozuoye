@@ -36,9 +36,12 @@
 <view class="description">
 两者完美融合，入口芋香四溢！
 </view>
+
 <button class="button primary"  
-bindtap="testDrive"
+bindtap="More"
+data-id="{{ item.id}}
 >立即点餐</button>
+
 </view>
 </view>
 <image  
@@ -84,8 +87,11 @@ src="/assets/icons/yutou.png"  mode="aspectFill"/>
 <view class="description">
 一次满足多种丰富的口感！
 </view>
-<button class="button primary"
-bindtap="testDrive">立即点餐</button>
+<navigator>
+<button class="button primary"  
+
+>立即点餐</button>
+</navigator>
 </view>
 </view>
 <image  
@@ -133,7 +139,11 @@ src="/assets/icons/xiongdi.png"  mode="aspectFill"/>
 <view class="description">
 天然健康好营养！
 </view>
-<button class="button primary"bindtap="testDrive">立即点餐</button>
+<navigator>
+<button class="button primary"  
+
+>立即点餐</button>
+</navigator>
 </view>
 </view>
 
@@ -182,7 +192,11 @@ src="/assets/icons/qingke.png"  mode="aspectFill"/>
 <view class="description">
 口感酸甜爽口，丰富有层次！
 </view>
-<button class="button primary"bindtap="testDrive">立即点餐</button>
+<navigator>
+<button class="button primary"  
+
+>立即点餐</button>
+</navigator>
 </view>
 </view>
 
@@ -233,7 +247,11 @@ src="/assets/icons/xiangpao.png"  mode="aspectFill"/>
 <view class="description">
 果香酸甜，爽口又解腻
 </view>
-<button class="button primary"bindtap="testDrive" >立即点餐</button>
+<navigator>
+<button class="button primary"  
+
+>立即点餐</button>
+</navigator>
 </view>
 </view>
 <image  

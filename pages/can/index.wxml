@@ -1,0 +1,39 @@
+<view class="view-container">
+<view>
+<rich-text
+nodes="{{ nodes}}"
+/>
+</view>
+</view>
+
+
+<view class="container verical centered">
+<view>
+<form bindsubmit="formSubmit">
+<picker
+range="{{ items }}"
+bindchange="inputHandler"
+name="picker"
+>
+
+<view>
+<text>{{ items[pick] }}</text>
+</view>
+</picker>
+
+<button form-type="submit"  >付款</button>
+
+</form>
+
+<view class="header">选择你最喜欢的一款饮品！</view>
+<view>
+
+</view>
+
+
+</view>
+</view>
+
+
+
+
