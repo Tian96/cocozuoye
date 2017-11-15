@@ -16,6 +16,25 @@ transition: 0.5s all;
   height:36vh;
 }
 
+.card image, .card video {
+  height:36vh;
+}
+
+.card image{
+  position: relative;
+}
+
+.card .label {
+  position:absolute;
+  bottom: 8px;
+  right: 8px;
+  font-size: 24rpx;
+  padding: 4rpx 8rpx;
+  background:  rgba(0,0,0,0.85);
+  color: rgba(255,255,255,0.9);
+  border-radius: 2px;
+}
+
 .card .content {
   padding: 48rpx 48rpx 64rpx;
 }

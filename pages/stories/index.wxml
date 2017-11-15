@@ -1,2 +1,101 @@
 <!--pages/stories/index.wxml-->
-<view>stories</view>
+<view class="cards">
+<view class="card"  hover-class="hover"  wx:key="111">
+<navigator  url="/pages/stories/index?id={{ item.id}}" hover-class="none" >
+
+<video
+poster="/assets/icons/yutou.png" 
+src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+ />
+
+<view class="content">
+<view class="header">鲜芋奶茶</view>
+<view class="sub_header">【人气产品，可做热饮】</view>
+
+
+
+</view>
+
+</navigator>
+</view>
+
+</view>
+
+
+
+
+
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover"  wx:key="222">
+<video
+poster="/assets/icons/xiongdi.png" 
+src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+ />
+ 
+<view class="content">
+<view class="header">奶茶三兄弟</view>
+<view class="sub_header">【热门推荐，人气产品】</view>
+
+</view>
+
+</view>
+
+</view>
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover"   wx:key="333">
+<video
+poster="/assets/icons/qingke.png" 
+src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+ />
+ 
+<view class="content">
+<view class="header">鲜芋青稞牛奶</view>
+<view class="sub_header">【热门推荐，冬季限定】</view>
+
+</view>
+
+</view>
+
+</view>
+
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" wx:key="444" >
+<video
+poster="/assets/icons/xiangpao.png" 
+src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+ />
+ 
+<view class="content">
+<view class="header">鲜百香双响炮</view>
+<view class="sub_header">【夏季限定，人气饮品】</view>
+
+
+
+</view>
+</view>
+</view>
+
+
+<view class="cards">
+<view class="card"  hover-class="hover" wx:key="555" >
+<video
+poster="/assets/icons/xianmeng.png" 
+src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+ />
+
+<view class="content">
+<view class="header">鲜柠檬红茶</view>
+<view class="sub_header">【人气饮品，冷饮】</view>
+
+
+</view>
+</view>
+</view>

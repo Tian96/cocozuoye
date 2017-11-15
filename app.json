@@ -1,9 +1,10 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/vehicles/show",
+    "pages/stories/index",
+    
+    "pages/vehicles/show"
   
-   "pages/stories/index"
   ],
   "window": {
     "navigationBarBackgroundColor": "#ffffff",
