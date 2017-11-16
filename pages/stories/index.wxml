@@ -5,12 +5,12 @@
 
 <video
 poster="/assets/icons/yutou.png" 
-src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+src="http://ips.ifeng.com/video19.ifeng.com/video09/2017/08/01/5264417-102-009-225956.mp4?vid=19ce051a-fc21-412d-ba1a-24244b8a32f6&uid=1489649870074_8urk4t3945&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E5%85%A8%E7%90%83%E5%A8%B1%E4%B9%90%E7%B2%BE%E9%80%89&cat=140-142&ptype=140&platform=pc&sourceType=h5&dt=1501599516000&gid=n7_FkV-Dn9lt&sign=19fc8c877542b07d2d87a64a459e1c5a&tm=1510815553901"
  />
 
 <view class="content">
-<view class="header">鲜芋奶茶</view>
-<view class="sub_header">【人气产品，可做热饮】</view>
+<view class="header">鲜芋奶茶做法</view>
+<view class="sub_header">【在家也要喝奶茶！】</view>
 
 
 
@@ -32,12 +32,12 @@ src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
 <view class="card"  hover-class="hover"  wx:key="222">
 <video
 poster="/assets/icons/xiongdi.png" 
-src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+src="http://ips.ifeng.com/video19.ifeng.com/video09/2017/10/24/11542105-102-009-211613.mp4?vid=e1192f2d-5069-4d19-8526-831a35cc0fe6&uid=1489649870074_8urk4t3945&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E5%88%98%E5%B0%8F%E8%91%B1&cat=91-93&ptype=91&platform=pc&sourceType=h5&dt=1508850929000&gid=U3zW8V-DoceD&sign=ceae7230387c64c3b54a61edec9ea0b6&tm=1510815680391"
  />
  
 <view class="content">
-<view class="header">奶茶三兄弟</view>
-<view class="sub_header">【热门推荐，人气产品】</view>
+<view class="header">奶茶三兄弟做法</view>
+<view class="sub_header">【珍珠Q到爆！】</view>
 
 </view>
 
@@ -51,12 +51,12 @@ src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
 <view class="card"  hover-class="hover"   wx:key="333">
 <video
 poster="/assets/icons/qingke.png" 
-src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+src="http://ips.ifeng.com/video19.ifeng.com/video09/2017/08/24/5742004-102-009-121502.mp4?vid=0c20ff15-bfaf-460b-a83b-208422002f86&uid=1489649870074_8urk4t3945&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E9%A5%AE%E9%A3%9F%E5%9C%B0%E5%9B%BE&cat=91-93&ptype=91&platform=pc&sourceType=h5&dt=1503548071000&gid=dZ27kV-DqXui&sign=7eff5dc0795ccc37de7ef649ed434195&tm=1510816185254"
  />
  
 <view class="content">
 <view class="header">鲜芋青稞牛奶</view>
-<view class="sub_header">【热门推荐，冬季限定】</view>
+<view class="sub_header">【青稞自己煮，软硬自己掌控！】</view>
 
 </view>
 
@@ -70,12 +70,17 @@ src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
 <view class="card"  hover-class="hover" wx:key="444" >
 <video
 poster="/assets/icons/xiangpao.png" 
-src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+src="http://ips.ifeng.com/video19.ifeng.com/video09/2017/10/20/10986731-102-009-153415.mp4?vid=a8dc976b-c55c-4219-b31a-37398a09e579&uid=1489649870074_8urk4t3945&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E5%BF%AB%E6%89%8B&cat=91-93&ptype=91&platform=pc&sourceType=h5&dt=1508484799000&gid=fiwR4V-Dq3Eh&sign=2b21641395c9bd097042a99ae9cc66ba&tm=1510816313633"
  />
  
+
+
+
+
+
 <view class="content">
 <view class="header">鲜百香双响炮</view>
-<view class="sub_header">【夏季限定，人气饮品】</view>
+<view class="sub_header">【百香果搭配雪碧更好喝！】</view>
 
 
 
@@ -88,7 +93,7 @@ src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
 <view class="card"  hover-class="hover" wx:key="555" >
 <video
 poster="/assets/icons/xianmeng.png" 
-src="http://baidu.iqiyi.com/watch/3764956553089100175.html?page=videoMultiNeed"
+src="http://ips.ifeng.com/video19.ifeng.com/video09/2017/08/01/5264417-102-009-225956.mp4?vid=19ce051a-fc21-412d-ba1a-24244b8a32f6&uid=1489649870074_8urk4t3945&from=v_Free&pver=vHTML5Player_v2.0.0&sver=&se=%E5%85%A8%E7%90%83%E5%A8%B1%E4%B9%90%E7%B2%BE%E9%80%89&cat=140-142&ptype=140&platform=pc&sourceType=h5&dt=1501599516000&gid=n7_FkV-Dn9lt&sign=19fc8c877542b07d2d87a64a459e1c5a&tm=1510815553901"
  />
 
 <view class="content">

@@ -1,0 +1,13 @@
+.t.image{
+  width: auto;
+  height: auto;
+
+}
+.wen {
+  margin-top: 30px;
+  padding: 30px;
+  font-size: 35rpx;
+  font-weight: bold;
+  text-align:center;
+}
+  

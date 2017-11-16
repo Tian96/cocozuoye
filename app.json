@@ -1,10 +1,13 @@
 {
   "pages": [
-"pages/index/index",
+     
+    "pages/index/index",
     "pages/can/index",
-   
     "pages/stories/index",
-    "pages/vehicles/show"
+    "pages/vehicles/show",
+    "pages/can/fu"
+  
+
     
   
   ],

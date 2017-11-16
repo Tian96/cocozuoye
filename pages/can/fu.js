@@ -1,61 +1,16 @@
-const app = getApp()
-
-
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    nodes:[
-      {
-      name:'img',
-      attrs:{
-        class:'image',
-      
-        src: '/assets/icons/tu.jpg'
-      }
-      }
-    ],
-
-    items:[
-      '鲜芋奶茶',
-      '奶茶三兄弟',
-      '鲜芋青稞牛奶',
-      '鲜百香双响炮',
-      '鲜檬红茶'
-    ],
-    pick:0
-
+    
   },
-  
-
-
-
-
-formSubmit(event){
-  console.log(event.detail.value)
-},
-
-inputHandler(event){
-  this.setData({
-    pick: event.detail.value
-  })
-  console.log(event.detailvalue)
-},
-
-
-fu: function () {
-  wx.navigateTo({
-    url: 'fu',
-  })
-},
-
 
   /**
    * 生命周期函数--监听页面加载
    */
-  onLoad() {
+  onLoad: function (options) {
     
   },
 
@@ -63,48 +18,48 @@ fu: function () {
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-
+    
   },
 
   /**
    * 生命周期函数--监听页面显示
    */
   onShow: function () {
-
+    
   },
 
   /**
    * 生命周期函数--监听页面隐藏
    */
   onHide: function () {
-
+    
   },
 
   /**
    * 生命周期函数--监听页面卸载
    */
   onUnload: function () {
-
+    
   },
 
   /**
    * 页面相关事件处理函数--监听用户下拉动作
    */
   onPullDownRefresh: function () {
-
+    
   },
 
   /**
    * 页面上拉触底事件的处理函数
    */
   onReachBottom: function () {
-
+    
   },
 
   /**
    * 用户点击右上角分享
    */
   onShareAppMessage: function () {
-
+    
   }
 })

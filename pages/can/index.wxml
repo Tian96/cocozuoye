@@ -21,7 +21,7 @@ name="picker"
 </view>
 </picker>
 
-<button form-type="submit"  >付款</button>
+<button class="an" bindtap="fu" >付款</button>
 
 </form>
 
